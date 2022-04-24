@@ -22,6 +22,8 @@ welcome :D
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  title="vscode" alt="vscodeicon" width="40" height="40"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"  title="aurduino" alt="aurduinoicon" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="java" alt="javaicon" width="40" height="40"/>
+          
 </div>
           
           
