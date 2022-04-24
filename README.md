@@ -12,7 +12,7 @@ welcome :D
 
 :tea:-Want to learn more HTML and CSS!
 
-:mail:-My socials :https://www.instagram.com/jiahua.iv/
+:mailbox:-My socials :https://www.instagram.com/jiahua.iv/
 
 --------------------------------------------------------------------------------------------------------------------
 :computer: Languages & Tools :
