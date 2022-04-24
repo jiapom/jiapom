@@ -12,5 +12,7 @@
 
 :tea:-Want to learn more HTML and CSS!
 
-:mail:-My socails : (https://www.instagram.com/jiahua.iv/)
+:mail:-My socials : [![Linkedin Badge](https://www.instagram.com/jiahua.iv/)
+](your-linkedin-url)
+
 
