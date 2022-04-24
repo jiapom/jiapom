@@ -12,5 +12,5 @@
 
 :tea:-Want to learn more HTML and CSS!
 
-:mail:-My socails : [![Linkedin Badge](https://www.instagram.com/jiahua.iv/)](your-linkedin-url)
+:mail:-My socails : (https://www.instagram.com/jiahua.iv/)
 
