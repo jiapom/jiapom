@@ -6,7 +6,11 @@
 ---
 
 ### :woman_technologist: About Me :
-👧-I'm a student(she/her)
-🍮-Interested in AI tech and machine learning.
-🍵-Want to learn more HT<L and CSS!
+:girl:-I'm a student(she/her)
+
+:custard:-Interested in AI tech and machine learning.
+
+:tea:-Want to learn more HTML and CSS!
+
+:mail:-My socails : [![Linkedin Badge](https://www.instagram.com/jiahua.iv/)](your-linkedin-url)
 
