@@ -17,5 +17,5 @@ welcome :D
 --------------------------------------------------------------------------------------------------------------------
 ###:computer: Languages :
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" alt="pythonicon"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" alt="pythonicon">
 
