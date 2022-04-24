@@ -15,7 +15,14 @@ welcome :D
 :mail:-My socials :https://www.instagram.com/jiahua.iv/
 
 --------------------------------------------------------------------------------------------------------------------
-###:computer: Languages :
+:computer: Languages :
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" alt="pythonicon" width="40" height="40"/>&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  title="vscode" alt="vscodeicon" width="40" height="40"/>&nbsp;
+          
+
+          
+
+          
 
