@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/FjGEQSybauJqM/giphy.gif" width="600" height="300"/>
 </div>
----
+--------------------------------------------------------------------------------------------------------------------
 
 ### :woman_technologist: About Me :
 :girl:-I'm a student(she/her)
