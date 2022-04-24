@@ -10,7 +10,7 @@ welcome :D
 
 :custard:-Interested in AI tech and machine learning.
 
-:tea:-Want to learn more HTML and CSS!
+:tea:-Want to learn more HTML, CSS, Java and C++ !
 
 :mailbox:-My socials :https://www.instagram.com/jiahua.iv/
 
